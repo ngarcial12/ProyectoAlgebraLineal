@@ -1,0 +1,2 @@
+1. Registrarse en https://github.com/signup?source=login
+2. Descargar e instalar https://git-scm.com/
