@@ -4,7 +4,7 @@ Registro e Instalación:
 2. Descargar e instalar https://git-scm.com/
 3. Crear repositorio en GitHub.
 
-Conectarse por Primera vez con GitHub:
+Conectarse por primera vez con GitHub:
 
 1. git config --global user.name "Nombre de usuario de Github o bitbucket"
 2. git config --global user.email "Email usado en GitHub o bitbucket"
